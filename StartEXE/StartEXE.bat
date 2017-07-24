@@ -21,7 +21,7 @@ GOTO End
 
 :: Start with no parameter/arguments
 :NoParameter
-START "" %APP
+START "" %APP%
 
 :: Exit
 :End
